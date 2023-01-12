@@ -1,0 +1,25 @@
+.container {
+    background-color: lightgray;
+    background-image: url('../images/Vector 30.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 1023px;
+    width: 1440px;
+    border: 0px solid lightgray;
+}
+
+.con {
+    margin-top: -20px;
+    height: 838px;
+    width: 483px;
+    background-color: white;
+    border-radius: 60px;
+    border-right: 1000px;
+}
+
+.mid1 {
+}
+
+.mid1 Button {
+    color: black;
+}
