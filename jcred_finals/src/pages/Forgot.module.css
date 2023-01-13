@@ -40,15 +40,23 @@
 
 .left1 h1{
     font-size: 40px;
+    margin-left: 25px
+}
+
+.left1 h4 {
+    font-size: 24px;
+    color: gray;
+    margin-right: 50px
 }
 
 .left1 h5 {
     font-size: 20px;
-    color: gray;
-    margin-top: -30px;
+    color: lightgray;
+    margin-top: 10px;
+    margin-right: 50px
 }
 
-.next Button {
+.last Button {
     width: 204px;
     height: 59px;
     border-radius: 25px;
@@ -61,40 +69,9 @@
     display: flex;
 }
 
-.next h2 {
+.last h2 {
     font-size: 24px;
     color: white;
     margin-right: 30px;
     margin-left: 30px;
-}
-
-.but Button {
-    font-size: 20px;
-    color: black;
-    text-decoration: underline;
-    width: 200px;
-    margin-bottom: -100px;
-    margin-top: 5px;
-    margin-left: -20px;
-}
-
-
-.last {
-    display: flex;
-    align-items: center;
-}
-
-.last p {
-    font-size: 20px;
-    color: gray;
-    margin-top: 130px;
-    margin-left: 40px;
-}
-
-.last Button {
-    color: #F9B64D;
-    font-size: 20px;
-    margin-top: 110px;
-    text-decoration: underline;
-    margin-left: -30px;
 }

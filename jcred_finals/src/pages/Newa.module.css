@@ -30,7 +30,7 @@
     font-size: 20px;
     border: 0px;
     border-bottom: 1px solid black;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     width: 397px;
 }
 
@@ -48,7 +48,7 @@
     margin-top: -30px;
 }
 
-.next Button {
+.prior Button {
     width: 204px;
     height: 59px;
     border-radius: 25px;
@@ -61,7 +61,7 @@
     display: flex;
 }
 
-.next h2 {
+.prior h2 {
     font-size: 24px;
     color: white;
     margin-right: 30px;
